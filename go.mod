@@ -1,4 +1,4 @@
-module github.com/google/wire
+module github.com/coder-dou/wire
 
 require (
 	github.com/google/go-cmp v0.2.0
